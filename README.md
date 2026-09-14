@@ -4,6 +4,13 @@
 
 This repository archives PDF issues of **Ecology & Conservation News Digest**, a periodic digest of ecology and conservation news, policy updates, international developments, and research literature. It covers conservation, ecological restoration, biodiversity protection, protected areas, climate and ecological governance, with concise summaries, Chinese interpretation, source information, and original links.
 
+## 长江生态保护专题 | Yangtze River Ecology
+
+本仓库另设“长江生态保护与水生生物多样性周报”专题，重点跟踪对决策、科研布局和项目实施具有实质影响的政策法规、监测标准、生态修复项目、珍稀特有鱼类保护，以及涉水能源央企的生物多样性与 TNFD/ESG 实践。
+
+- [进入长江专题周报专区](./yangtze-weekly/)
+- [最新一期：2026年第4期（9月7—13日）](./yangtze-weekly/reports/2026/2026-09-07_2026-09-13.md)
+
 ## 报告索引 | Report Index
 
 | 报告日期 | PDF |
