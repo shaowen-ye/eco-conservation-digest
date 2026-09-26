@@ -4,6 +4,13 @@
 
 This repository archives PDF issues of **Ecology & Conservation News Digest**, a periodic digest of ecology and conservation news, policy updates, international developments, and research literature. It covers conservation, ecological restoration, biodiversity protection, protected areas, climate and ecological governance, with concise summaries, Chinese interpretation, source information, and original links.
 
+## 生态环境资源政策跟踪与回溯 | Policy Tracking & Retrospective
+
+持续跟踪国内外生态、环境和自然资源治理的重要制度变化，并回溯关键历史政策及其实施链。
+
+- [进入政策跟踪与回溯专区](./policy-daily/)
+- [最新一期：2026-09-27](./policy-daily/reports/2026/2026-09-27.md)
+
 ## 长江生态保护专题 | Yangtze River Ecology
 
 本仓库另设“长江生态保护与水生生物多样性周报”专题，重点跟踪对决策、科研布局和项目实施具有实质影响的政策法规、监测标准、生态修复项目、珍稀特有鱼类保护，以及涉水能源央企的生物多样性与 TNFD/ESG 实践。
