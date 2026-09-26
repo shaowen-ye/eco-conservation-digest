@@ -11,6 +11,13 @@ This repository archives PDF issues of **Ecology & Conservation News Digest**, a
 - [进入长江专题周报专区](./yangtze-weekly/)
 - [最新一期：2026年第6期（9月20—26日）](./yangtze-weekly/reports/2026/2026-09-20_2026-09-26.md)
 
+## 长江大保护与水生多样性治理动态 | Yangtze Governance Digest
+
+本栏目独立跟踪长江流域生态保护与水生多样性治理中的政策监管、技术标准、生态修复保护、监测评估机制，以及涉水能源央企生物多样性治理、TNFD/ESG 等实质性变化，与上述 `yangtze-weekly/` 专题分开维护。
+
+- [进入治理动态专区](./yangtze-governance/)
+- [最新一期：2026年第1期（9月20—26日）](./yangtze-governance/reports/2026/2026-09-20_2026-09-26.md)
+
 ## 报告索引 | Report Index
 
 | 报告日期 | PDF |
