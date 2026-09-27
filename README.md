@@ -9,7 +9,7 @@ This repository archives PDF issues of **Ecology & Conservation News Digest**, a
 持续跟踪国内外生态、环境和自然资源治理的重要制度变化，并回溯关键历史政策及其实施链。
 
 - [进入政策跟踪与回溯专区](./policy-daily/)
-- [最新一期：2026-09-27](./policy-daily/reports/2026/2026-09-27.md)
+- [最新一期：2026-09-28](./policy-daily/reports/2026/2026-09-28.md)
 
 ## 长江生态保护专题 | Yangtze River Ecology
 
